@@ -1,6 +1,6 @@
 #!/usr/bin/python
-#fname = input("Enter file name: ")
-fname ="/home/ros/manuscript.txt" 
+fname = input("Enter file name: ")
+#fname ="/home/ros/manuscript.txt" 
 num_words = 0
  
 with open(fname, 'r') as f:
